@@ -1,0 +1,10 @@
+{"Subject":"OS","StudentT":96,"StudentC":68,"StudentD":61,"StudentG":74,"StudentO":68,"StudentK":67,"StudentJ":67,"StudentO":87,"StudentP":93,"StudentS":87}
+{"Subject":"DAA","StudentB":61,"StudentA":87,"StudentC":68,"StudentE":87,"StudentJ":68,"StudentI":67,"StudentN":67,"StudentM":74,"StudentR":93,"StudentQ":96}
+{"Subject":"CAO","StudentM":74,"StudentC":87,"StudentD":93,"StudentG":96,"StudentH":87,"StudentK":68,"StudentJ":61,"StudentO":67,"StudentP":68,"StudentS":67}
+{"Subject":"DBMS","StudentB":67,"StudentA":93,"StudentC":67,"StudentS":87,"StudentJ":74,"StudentI":61,"StudentN":87,"StudentM":68,"StudentP":68,"StudentQ":96}
+{"Subject":"ToC","StudentT":87,"StudentC":68,"StudentD":67,"StudentG":68,"StudentH":93,"StudentK":87,"StudentJ":74,"StudentO":67,"StudentP":96,"StudentS":61}
+{"Subject":"CD","StudentB":87,"StudentA":74,"StudentF":96,"StudentE":61,"StudentJ":61,"StudentI":87,"StudentN":87,"StudentM":61,"StudentP":74,"StudentQ":67}
+{"Subject":"WT","StudentM":67,"StudentC":61,"StudentD":74,"StudentG":93,"StudentH":96,"StudentK":68,"StudentJ":93,"StudentO":87,"StudentP":61,"StudentS":87}
+{"Subject":"JAVA","StudentB":93,"StudentA":67,"StudentF":87,"StudentS":68,"StudentJ":87,"StudentI":96,"StudentN":87,"StudentM":93,"StudentP":67,"StudentQ":74}
+{"Subject":"PPL","StudentM":68,"StudentC":96,"StudentD":87,"StudentG":67,"StudentO":67,"StudentK":74,"StudentJ":68,"StudentO":68,"StudentP":67,"StudentS":68}
+{"Subject":"DCCN","StudentB":68,"StudentB":67,"StudentC":68,"StudentE":67,"StudentJ":67,"StudentI":93,"StudentN":68,"StudentM":96,"StudentP":87,"StudentQ":68}
