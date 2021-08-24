@@ -1,5 +1,5 @@
-{"Subject":"OS","StudentA":70,"StudentB":60,"StudentC","80"}
-{"Subject":"DAA","StudentA":90,"StudentH":75,"StudentE","60"}
-{"Subject":"CAO","StudentA":90,"StudentD":75,"StudentE","60"}
-{"Subject":"DBMS","StudentA":70,"StudentB":60,"StudentC","80"}
-{"Subject":"ToC","StudentF":70,"StudentD":60,"StudentG","80"}
+{"Subject":"OS","StudentA":70,"StudentB":60,"StudentC":"80"}
+{"Subject":"DAA","StudentA":90,"StudentH":75,"StudentE":"60"}
+{"Subject":"CAO","StudentA":90,"StudentD":75,"StudentE":"60"}
+{"Subject":"DBMS","StudentA":70,"StudentB":60,"StudentC":"80"}
+{"Subject":"ToC","StudentF":70,"StudentD":60,"StudentG":"80"}
