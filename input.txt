@@ -1,4 +1,4 @@
-{"Subject":"OS" ,"StudentA":90,"StudentC":65,"StudentE":80,"StudentG":70,"StudentI":65,"StudentK":85,"StudentM":85,"StudentO":75,"StudentQ":60,"StudentS":75}
+{"Subject":"OS","StudentA":90,"StudentC":65,"StudentE":80,"StudentG":70,"StudentI":65,"StudentK":85,"StudentM":85,"StudentO":75,"StudentQ":60,"StudentS":75}
 {"Subject":"DAA","StudentB":80,"StudentD":75,"StudentF":65,"StudentH":75,"StudentJ":65,"StudentL":85,"StudentN":85,"StudentP":70,"StudentR":60,"StudentT":90}
 {"Subject":"CAO","StudentA":70,"StudentC":75,"StudentE":60,"StudentG":90,"StudentI":75,"StudentK":65,"StudentM":80,"StudentO":85,"StudentQ":65,"StudentS":85}
 {"Subject":"DBMS","StudentB":85,"StudentD":60,"StudentF":85,"StudentH":75,"StudentJ":70,"StudentL":80,"StudentN":75,"StudentP":65,"StudentR":65,"StudentT":90}
