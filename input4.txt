@@ -1,0 +1,6 @@
+{"Subject":"DSA","StudentA":63,"StudentC":88,"StudentE":72,"StudentG":81,"StudentH":88,"StudentD":77}
+{"Subject":"DAA","StudentB":72,"StudentD":77,"StudentF":88,"StudentH":77,"StudentA":88,"StudentB":67}
+{"Subject":"CAD","StudentA":81,"StudentC":77,"StudentE":93,"StudentG":63,"StudentC":72,"StudentD":67}
+{"Subject":"DBMS","StudentB":67,"StudentD":93,"StudentF":67,"StudentH":77}
+{"Subject":"TDC","StudentA":77,"StudentC":88,"StudentE":67,"StudentG":88,"StudentD":67}
+{"Subject":"CD","StudentB":77,"StudentD":81,"StudentF":63,"StudentH":72}
