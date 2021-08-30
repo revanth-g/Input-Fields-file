@@ -27,7 +27,7 @@ def studentMarks(url):
                 continue
             print(i,count[i],marks[i])
         print(" ")
-
+        print("Completed")
     else:
         print('Content was not found.')
 
